@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedPlugin/ReflectedPlugin.csproj": {}
+  },
+  "projects": {
+    "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/ReflectedAttribute.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/ReflectedAttribute.csproj",
+        "projectName": "ReflectedAttribute",
+        "projectPath": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/ReflectedAttribute.csproj",
+        "packagesPath": "/Users/hasandogacangursoy/.nuget/packages/",
+        "outputPath": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hasandogacangursoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedPlugin/ReflectedPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedPlugin/ReflectedPlugin.csproj",
+        "projectName": "ReflectedPlugin",
+        "projectPath": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedPlugin/ReflectedPlugin.csproj",
+        "packagesPath": "/Users/hasandogacangursoy/.nuget/packages/",
+        "outputPath": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedPlugin/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hasandogacangursoy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/ReflectedAttribute.csproj": {
+                "projectPath": "/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/ReflectedAttribute.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

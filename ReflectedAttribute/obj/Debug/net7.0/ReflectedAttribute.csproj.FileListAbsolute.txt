@@ -1,0 +1,15 @@
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/bin/Debug/net7.0/ReflectedAttribute
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/bin/Debug/net7.0/ReflectedAttribute.deps.json
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/bin/Debug/net7.0/ReflectedAttribute.runtimeconfig.json
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/bin/Debug/net7.0/ReflectedAttribute.dll
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/bin/Debug/net7.0/ReflectedAttribute.pdb
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.csproj.AssemblyReference.cache
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.AssemblyInfoInputs.cache
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.AssemblyInfo.cs
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.csproj.CoreCompileInputs.cache
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.dll
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/refint/ReflectedAttribute.dll
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.pdb
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ReflectedAttribute.genruntimeconfig.cache
+/Users/hasandogacangursoy/Projects/NETProjects/CustomAttribute/ReflectedAttribute/obj/Debug/net7.0/ref/ReflectedAttribute.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ReflectedPlugin/1.0.0": {
+        "dependencies": {
+          "ReflectedAttribute": "1.0.0"
+        },
+        "runtime": {
+          "ReflectedPlugin.dll": {}
+        }
+      },
+      "ReflectedAttribute/1.0.0": {
+        "runtime": {
+          "ReflectedAttribute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectedPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReflectedAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
